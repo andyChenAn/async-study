@@ -15,3 +15,4 @@ async是一个非常给力的控制异步流程的库，建议大家学习一下
 - [async.mapSeries](https://github.com/andyChenAn/async-study/blob/master/async.mapSeries/README.md)
 - [async.mapLimit](https://github.com/andyChenAn/async-study/blob/master/async.mapLimit/README.md)
 - [async.filter](https://github.com/andyChenAn/async-study/blob/master/async.filter/README.md)
+- [async.filterSeries](https://github.com/andyChenAn/async-study/blob/master/async.filterSeries/README.md)
