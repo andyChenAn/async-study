@@ -1,6 +1,6 @@
 # async.reduce
 ### async.reduce(arr , memo , iterator , callback)
-该方法表示从左向右将arr中的元素迭加，最后通过callback的参数返回。
+该方法表示从左向右将arr中的元素做运算，最后的结果通过callback的参数返回。
 ### 实现原理
 通过递归调用从左到右来执行代码即可。注意，这里都是没有去实现容错处理的，只是用于学习
 ### 具体代码
